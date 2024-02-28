@@ -1,0 +1,21 @@
+# seed 8
+activations: Tanh
+batch_size: 4
+class_identifier: referenceless_regression_metric
+dropout: 0.15
+encoder_learning_rate: 1.0e-05
+encoder_model: XLM-RoBERTa
+hidden_sizes:
+- 2048
+- 1024
+keep_embeddings_frozen: true
+layer: mix
+layerwise_decay: 0.95
+learning_rate: 1.0e-05
+load_weights_from_checkpoint: null
+nr_frozen_epochs: 1
+optimizer: AdamW
+pool: avg
+pretrained_model: xlm-roberta-large
+train_data: data/mqm.train.z_score.csv
+validation_data: data/mqm.test.z_score.csv

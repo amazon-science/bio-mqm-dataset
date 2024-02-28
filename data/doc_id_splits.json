@@ -1,0 +1,46 @@
+{
+  "br-en": {
+    "test": ["doc5", "doc9", "doc10", "doc14", "doc15", "doc16", "doc21", "doc22", "doc23", "doc24", "doc27", "doc28", "doc29", "doc34", "doc35", "doc37", "doc41", "doc43", "doc46", "doc63", "doc65", "doc67", "doc73", "doc77", "doc81", "doc82", "doc88", "doc89", "doc90", "doc91", "doc92", "doc93", "doc94", "doc95", "doc96", "doc97", "doc99", "doc100"],
+    "dev": ["doc13", "doc36", "doc42", "doc47", "doc51", "doc55", "doc57", "doc69", "doc71", "doc72", "doc86", "doc98"]
+  },
+  "en-de": {
+    "test": ["doc1", "doc6", "doc9", "doc10", "doc15", "doc16", "doc17", "doc18", "doc19", "doc21", "doc22", "doc23", "doc24", "doc25", "doc26", "doc28", "doc29", "doc32", "doc33", "doc36", "doc37", "doc40", "doc46", "doc52", "doc53", "doc60", "doc61", "doc62", "doc65", "doc66", "doc67", "doc68", "doc69", "doc73", "doc74", "doc75", "doc78", "doc79", "doc80"],
+    "dev": ["doc4", "doc11", "doc31", "doc35", "doc42", "doc43", "doc44", "doc54", "doc55", "doc56", "doc81"]
+  },
+  "de-en": {
+    "test": ["doc2", "doc3", "doc5", "doc12", "doc14", "doc20", "doc27", "doc34", "doc38", "doc39", "doc41", "doc47", "doc48", "doc57", "doc58", "doc63", "doc71", "doc72", "doc76", "doc83", "doc84", "doc85", "doc86", "doc88", "doc89", "doc90", "doc91", "doc92", "doc93", "doc95", "doc96", "doc97", "doc99", "doc100"],
+    "dev": ["doc7", "doc8", "doc13", "doc30", "doc45", "doc49", "doc50", "doc51", "doc59", "doc64", "doc70", "doc77", "doc82", "doc87", "doc94", "doc98"]
+  },
+  "en-es": {
+    "test": ["doc10", "doc16", "doc17", "doc20", "doc21", "doc23", "doc24", "doc25", "doc32", "doc38", "doc40", "doc45", "doc46", "doc48", "doc49", "doc50", "doc51", "doc59", "doc65", "doc67", "doc68", "doc73", "doc78", "doc83", "doc84", "doc88", "doc89", "doc90", "doc91", "doc92", "doc93", "doc94", "doc95", "doc96", "doc97", "doc99", "doc100"],
+    "dev": ["doc5", "doc6", "doc7", "doc12", "doc42", "doc47", "doc55", "doc61", "doc63", "doc71", "doc72", "doc86", "doc98"]
+  },
+  "es-en": {
+    "test": ["doc1", "doc2", "doc3", "doc8", "doc9", "doc11", "doc13", "doc14", "doc15", "doc18", "doc19", "doc22", "doc26", "doc27", "doc28", "doc29", "doc30", "doc33", "doc34", "doc35", "doc36", "doc37", "doc41", "doc44", "doc52", "doc53", "doc58", "doc60", "doc62", "doc64", "doc66", "doc69", "doc70", "doc74", "doc75", "doc76", "doc77", "doc79", "doc80", "doc81"],
+    "dev": ["doc4", "doc31", "doc39", "doc43", "doc54", "doc56", "doc57", "doc82", "doc85", "doc87"]
+  },
+  "en-ru": {
+    "test": ["doc1", "doc5", "doc9", "doc13", "doc16", "doc18", "doc19", "doc20", "doc26", "doc29", "doc30", "doc31", "doc32", "doc38", "doc39", "doc42", "doc44", "doc49", "doc56", "doc61", "doc63", "doc65", "doc73", "doc74", "doc75", "doc78", "doc81", "doc83", "doc87", "doc91", "doc92", "doc95", "doc96", "doc97", "doc99", "doc100"],
+    "dev": ["doc6", "doc7", "doc12", "doc37", "doc40", "doc46", "doc51", "doc58", "doc60", "doc67", "doc70", "doc80", "doc94", "doc98"]
+  },
+  "ru-en": {
+    "test": ["doc2", "doc3", "doc8", "doc10", "doc11", "doc14", "doc15", "doc17", "doc21", "doc22", "doc23", "doc24", "doc25", "doc27", "doc28", "doc33", "doc35", "doc36", "doc41", "doc43", "doc45", "doc47", "doc53", "doc54", "doc55", "doc57", "doc64", "doc66", "doc68", "doc69", "doc72", "doc76", "doc77", "doc79", "doc82", "doc84", "doc85", "doc86", "doc88", "doc89", "doc93"],
+    "dev": ["doc4", "doc34", "doc48", "doc50", "doc52", "doc59", "doc62", "doc71", "doc90"]
+  },
+  "en-fr": {
+    "test": ["doc2", "doc7", "doc12", "doc13", "doc16", "doc17", "doc18", "doc19", "doc22", "doc23", "doc26", "doc34", "doc35", "doc41", "doc42", "doc44", "doc46", "doc49", "doc54", "doc56", "doc57", "doc62", "doc63", "doc64", "doc66", "doc74", "doc76", "doc77", "doc78", "doc79", "doc83", "doc85", "doc86", "doc89", "doc90", "doc93", "doc94", "doc96", "doc97", "doc98", "doc100"],
+    "dev": ["doc9", "doc43", "doc47", "doc58", "doc59", "doc60", "doc68", "doc70", "doc99"]
+  },
+  "fr-en": {
+    "test": ["doc1", "doc3", "doc5", "doc6", "doc8", "doc10", "doc11", "doc14", "doc15", "doc20", "doc21", "doc24", "doc27", "doc29", "doc30", "doc32", "doc33", "doc37", "doc45", "doc48", "doc50", "doc55", "doc61", "doc65", "doc69", "doc71", "doc72", "doc73", "doc75", "doc80", "doc81", "doc84", "doc87", "doc88", "doc92", "doc95"],
+    "dev": ["doc4", "doc25", "doc28", "doc31", "doc36", "doc38", "doc39", "doc40", "doc51", "doc52", "doc53", "doc67", "doc82", "doc91"]
+  },
+  "zh-en": {
+    "test": ["doc51", "doc52", "doc54", "doc55", "doc56", "doc57", "doc58", "doc59", "doc60", "doc61", "doc62", "doc63", "doc64", "doc65", "doc66", "doc68", "doc69", "doc71", "doc72", "doc74", "doc78", "doc79", "doc80", "doc84", "doc85", "doc86", "doc87", "doc89", "doc90", "doc91", "doc92", "doc93", "doc94", "doc95", "doc96", "doc97", "doc98", "doc100"],
+    "dev": ["doc53", "doc67", "doc70", "doc73", "doc75", "doc76", "doc77", "doc81", "doc82", "doc83", "doc88", "doc99"]
+  },
+  "en-zh": {
+    "test": ["doc1", "doc2", "doc4", "doc5", "doc6", "doc7", "doc8", "doc9", "doc10", "doc11", "doc12", "doc13", "doc14", "doc15", "doc16", "doc18", "doc19", "doc21", "doc22", "doc23", "doc24", "doc28", "doc29", "doc30", "doc34", "doc35", "doc36", "doc37", "doc38", "doc39", "doc40", "doc41", "doc42", "doc43", "doc44", "doc45", "doc46", "doc47", "doc48", "doc50"],
+    "dev": ["doc3", "doc17", "doc20", "doc25", "doc26", "doc27", "doc31", "doc32", "doc33", "doc49"]
+  }
+}

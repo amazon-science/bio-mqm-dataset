@@ -1,0 +1,21 @@
+nr_frozen_epochs: 1
+keep_embeddings_frozen: true
+optimizer: AdamW
+encoder_learning_rate: 1.0e-05
+learning_rate: 1.0e-05
+layerwise_decay: 0.95
+encoder_model: XLM-RoBERTa
+pretrained_model: xlm-roberta-large
+pool: avg
+layer: mix
+dropout: 0.15
+batch_size: 4
+class_identifier: regression_metric
+train_data: data/mqm.train.z_score.csv
+validation_data: data/mqm.test.z_score.csv
+hidden_sizes:
+- 3072
+- 1024
+activations: Tanh
+load_weights_from_checkpoint: null
+

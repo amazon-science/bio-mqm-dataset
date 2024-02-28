@@ -1,0 +1,2539 @@
+﻿[
+    {
+        "source": "The ways families approach eating, shape, and weight can result in stress for individual family members and challenge the overall functioning of the family.",
+        "target": "La forma en que las familias abordan la alimentación, la figura y el peso puede provocar estrés en cada uno de sus miembros y poner en peligro el funcionamiento general de la familia.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "This is further complicated among families with a parent who has history of obesity or undergone weight loss surgery (WLS).",
+        "target": "Esto se complica aún más entre las familias con un padre que tiene antecedentes de obesidad o se sometió a una cirugía de pérdida de peso (WLS, por sus siglas en inglés).",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Although WLS can positively impact other family members, it can also exacerbate conflicts regarding feeding and weight.",
+        "target": "Si bien el WSL puede impactar positivamente a otros miembros de la familia, también llega a exacerbar los conflictos en cuanto a alimentación y peso.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "WSL",
+                "startIndex": 11,
+                "endIndex": 13,
+                "error_category": "Inconsistent use of terminology",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Such conflicts can involve uncertainty regarding the extent to which the entire family should make the dietary changes recommended for the post-WLS parent.",
+        "target": "Tales conflictos pueden implicar incertidumbre con respecto a la medida en que toda la familia debe hacer los cambios en la dieta recomendados para el padre después de una WLS.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Conflict might also center on the appropriate level of concern regarding the children's risk of developing (or maintaining) obesity.",
+        "target": "El conflicto también podría centrarse en el nivel adecuado de preocupación por el riesgo de que los niños desarrollen (o mantengan) la obesidad.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "This paper uses two case examples to describe the application of a specialized, time-limited intervention: Parent-Based Prevention following Bariatric Surgery (PBP-B).",
+        "target": "Este documento utiliza dos ejemplos de casos para describir la aplicación de una intervención especializada y limitada en el tiempo: Prevención basada en los padres después de la cirugía bariátrica (PBP-B).",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "The program was developed to address the unique challenges and concerns that arise after, or are exacerbated by, WLS.",
+        "target": "El programa se desarrolló para abordar los desafíos y preocupaciones únicos que surgen después de WLS o que se ven exacerbados por WLS.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Each detailed case example illustrates a common child-feeding challenge and the employment of key PBP-B strategies throughout the course of treatment.",
+        "target": "Cada ejemplo de caso detallado ilustra un problema común de alimentación infantil y el empleo de estrategias clave de PBP-B a lo largo del tratamiento.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "In the first case, the parent who had undergone WLS believed the family's current eating behaviors were the same as those that had led to her own overeating, obesity, and co-occurring psychiatric symptoms, while her husband disagreed.",
+        "target": "En el primer caso, la madre que se había sometido a WLS creía que los comportamientos alimenticios actuales de la familia eran los mismos que los que la habían llevado a comer en exceso, obesidad y síntomas psiquiátricos concurrentes, mientras que su esposo no estaba de acuerdo.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "la madre",
+                "startIndex": 19,
+                "endIndex": 26,
+                "error_category": "Inconsistent use of terminology",
+                "severity": "Minor"
+            },
+            {
+                "term": "la",
+                "startIndex": 150,
+                "endIndex": 151,
+                "error_category": "Inconsistent use of terminology",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "In the second case, both parents were concerned about their son's weight, yet due to their prior eating histories, they felt unable to construct boundaries around the feeding experience.",
+        "target": "En el segundo caso, ambos padres estaban preocupados por el peso de su hijo, pero debido a sus antecedentes alimenticios anteriores, se sintieron incapaces de fijar límites en torno a la experiencia de alimentación.",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Both cases follow families through the entire intervention and illustrate key points and challenges.",
+        "target": "Ambos casos siguen a las familias a lo largo de toda la intervención e ilustran los puntos y desafíos clave.",
+        "SEG_ID": "11",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "These cases underscore the need for novel treatment modalities to support families following parental WLS.",
+        "target": "Estos casos subrayan la necesidad de nuevas modalidades de tratamiento para apoyar a las familias después de WLS parental.",
+        "SEG_ID": "12",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "SCORE-15 (Systemic Clinical Outcome and Routine Evaluation) is a 15-item questionnaire for completion by family members aged 12 years and older to assess outcomes in systemic therapy.",
+        "target": "SCORE-15 (Systemic Clinical Outcome and Routine Evaluation) es un cuestionario de 15 preguntas para ser completado por miembros de la familia de 12 años de edad o mayores para evaluar los resultados en la terapia sistémica.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "This study aimed to investigate (a) the psychometric properties and the internal consistency reliability of the Italian version of SCORE-15, (b) clinical responsiveness, and (c) normative (Italian) criteria.",
+        "target": "Este estudio tuvo como objetivo investigar (a) las propiedades psicométricas y la confiabilidad de la consistencia interna de la versión italiana de SCORE-15, (b) la capacidad de respuesta clínica y (c) los criterios normativos (italianos).",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Furthermore, (d) the study sought to evaluate the participants' representation of both their family and their problems, analyzing open-ended questions included in the SCORE-15.",
+        "target": "Además, (d) el estudio buscó evaluar la representación de los participantes tanto de su familia como de sus problemas, analizando preguntas abiertas incluidas en el SCORE-15.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Data were collected from two clinical centers for 208 families (n = 507).",
+        "target": "Se recogieron datos de dos centros clínicos de 208 familias (n = 507).",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Results confirmed the three-factor structure (i.e., strengths, difficulties, and communication), a good internal consistency reliability, and indicated a cutoff threshold for the Italian version.",
+        "target": "Los resultados confirmaron la estructura de tres factores (es decir, fortalezas, dificultades y comunicación), una buena confiabilidad de consistencia interna e indicaron un umbral de corte para la versión italiana.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Furthermore, results showed that SCORE-15 is a good instrument for clinical responsiveness and that it can be used to explore the way in which family members describe their families and problems.",
+        "target": "Además, los resultados mostraron que SCORE-15 es un buen instrumento para la capacidad de respuesta clínica y que se puede utilizar para explorar la forma en que los miembros de la familia describen a sus familias y problemas.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Overall, SCORE-15 is a brief, psychometrically robust family assessment instrument that may be used for both researchers and practitioners in several domains of clinical and social psychology.",
+        "target": "En general, SCORE-15 es un instrumento de evaluación familiar breve y psicométricamente robusto que puede usarse tanto para investigadores como para profesionales en varios dominios de la psicología clínica y social.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "puede usarse",
+                "startIndex": 100,
+                "endIndex": 111,
+                "error_category": "Non-fluent",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Spontaneous perforation of the common bile duct is rare.",
+        "target": "La perforación espontánea del conducto biliar común es rara.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "The cause is usually unknown, although it is sometimes related to the malformation of the bile duct.",
+        "target": "La causa suele ser desconocida, aunque a veces está relacionada con la malformación del conducto biliar.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Female of 1 year, with abdominal distention, hyporexia and fever, tomography with ascites, surgical findings included retroperitoneal bilioma, peritonitis and perforation of common bile duct.",
+        "target": "Mujer de 1 año, con distensión abdominal, hiporexia y fiebre, tomografía con ascitis. Los hallazgos quirúrgicos incluyeron bilioma retroperitoneal, peritonitis y perforación del conducto biliar común.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Block resection and primary hepato-duodenal anastomosis were performed.",
+        "target": "Se realizó resección en bloque y anastomosis hepato-duodenal primaria.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Spontaneous perforation of the common bile duct tend to evolve insidiously and delay in diagnosis is frequent.",
+        "target": "La perforación espontánea del colédoco tiende a evolucionar de manera insidiosa y es frecuente el retraso en el diagnóstico.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Surgical management is decisive, and there are different techniques described.",
+        "target": "El manejo quirúrgico es decisivo y se describen diferentes técnicas.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "A high index of suspicion is important, treatment must be individualized according to each patient.",
+        "target": "Es importante un alto índice de sospecha, el tratamiento debe individualizarse en función de cada paciente.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "The superior mesenteric artery (SMA) syndrome, also known as Wilkie's syndrome, is one of the rarest causes of small bowel obstruction.",
+        "target": "El síndrome de la arteria mesentérica superior (SMA, por sus siglas en inglés), también conocido como síndrome de Wilkie, es una de las causas más raras de obstrucción del intestino delgado.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "A 36-year-old female patient, with a medical history of diabetes mellitus type 2, arrived at the emergency department with upper intestinal obstruction; a study protocol is made, integrating the diagnosis of Wilkie's syndrome.",
+        "target": "Paciente de 36 años, con antecedentes médicos de diabetes mellitus tipo 2, acudió al servicio de urgencias con obstrucción intestinal alta; se realiza un protocolo de estudio, integrando el diagnóstico del síndrome de Wilkie.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "We performed a laparoscopic duodenojejunostomy, the patient did well in the post-operative period.",
+        "target": "Realizamos una duodenoyeyunostomía laparoscópica, la paciente evolucionó bien en el postoperatorio.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Laparoscopic duodenojejunostomy is a practical option to treat Wilkie's syndrome.",
+        "target": "La duodenoyeyunostomía laparoscópica es una opción práctica para tratar el síndrome de Wilkie.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "It provides definitive treatment with the advantages and benefits of minimally invasive surgery.",
+        "target": "Proporciona un tratamiento definitivo con las ventajas y beneficios de la cirugía mínimamente invasiva.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "The optimal treatment sequence for patients with rectal cancer and synchronous liver metastases remains unclear.",
+        "target": "La secuencia de tratamiento óptima para pacientes con cáncer rectal y metástasis hepáticas sincrónicas sigue sin estar clara.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "The aim of this study was to evaluate the feasibility and effectiveness of short-course pelvic radiotherapy (5 × 5 Gy) followed by systemic therapy and local treatment of all tumour sites in patients with potentially curable stage IV rectal cancer in daily practice.",
+        "target": "El objetivo de este estudio fue evaluar la viabilidad y efectividad de la radioterapia pélvica de ciclo corto (5 × 5 Gy) seguida de terapia sistémica y tratamiento local de todos los sitios tumorales en pacientes con cáncer rectal en estadio IV potencialmente curable en la práctica diaria.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "This was a retrospective study performed in eight tertiary referral centres in the Netherlands.",
+        "target": "Este fue un estudio retrospectivo realizado en ocho centros de referencia terciarios en los Países Bajos.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Patients aged 18 years or above with rectal cancer and potentially resectable liver ± extrahepatic metastases, treated between 2010 and 2015, were eligible.",
+        "target": "Los pacientes de 18 años o más con cáncer rectal y metástasis hepáticas ± extrahepáticas potencialmente resecables, tratados entre 2010 y 2015, fueron elegibles.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "fueron elegibles",
+                "startIndex": 144,
+                "endIndex": 159,
+                "error_category": "Non-fluent",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Main outcomes included full completion of treatment schedule, symptom control and survival.",
+        "target": "Los resultados principales incluyeron la finalización completa del programa de tratamiento, el control de los síntomas y la supervivencia.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "In total, 169 patients were included with a median follow-up of 49·5 (95 pr cent c.i. 43·6 to 55·6) months.",
+        "target": "En total, se incluyeron 169 pacientes con una mediana de seguimiento de 49,5 (95 % i.c. 43,6 a 55,6) meses.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "The completion rate for the entire treatment schedule was 65·7 per cent.",
+        "target": "La tasa de finalización de todo el programa de tratamiento fue del 65,7 por ciento.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Three-year progression-free survival and overall survival (OS) rates were 24·2 (95 per cent c.i. 16·6 to 31·6) and 48·8 (40·4 to 57·2) per cent respectively.",
+        "target": "Las tasas de supervivencia libre de progresión y supervivencia global (SG) a los tres años fueron de 24,2 (95 % i.c. 16,6 a 31,6) y 48,8 (40,4 a 57,2)%, respectivamente.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Median OS of patients who responded well and completed the treatment schedule was 51·5 months, compared with 15·1 months for patients who did not complete the treatment (P < 0·001).",
+        "target": "La mediana de SG de los pacientes que respondieron bien y completaron el esquema de tratamiento fue de 51,5 meses, en comparación con 15,1 meses para los pacientes que no completaron el tratamiento (P < 0,001).",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Adequate symptom control of the primary tumour was achieved in 87·0 per cent of all patients.",
+        "target": "El control adecuado de los síntomas del tumor primario se logró en el 87,0 por ciento de todos los pacientes.",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Multimodal treatment leads to relief of symptoms in most patients, and is associated with good survival rates in those able to complete the schedule.",
+        "target": "El tratamiento multimodal conduce al alivio de los síntomas en la mayoría de los pacientes y se asocia con buenas tasas de supervivencia en aquellos que pueden completar el programa.",
+        "SEG_ID": "11",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "[Correction added on 12 February 2020, after first online publication: the Conclusion has been reworded for clarity].",
+        "target": "[Corrección añadida el 12 de febrero de 2020, tras su primera publicación en línea: la Conclusión se ha reformulado para mayor claridad].",
+        "SEG_ID": "12",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "Conclusión",
+                "startIndex": 87,
+                "endIndex": 96,
+                "error_category": "Punctuation",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "There are a variety of instruments and indicators to assess continuity of care; however there is a lack of those that describe the result of coordination between the health care levels.",
+        "target": "Hay una variedad de instrumentos e indicadores para evaluar la continuidad de la atención; sin embargo faltan aquellos que describen el resultado de la coordinación entre los niveles de atención en salud.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "To show two indicators that summarizes the result of the complete circuit primary level-secondary level-primary level.",
+        "target": "Mostrar dos indicadores que resumen el resultado del circuito completo de nivel primario-nivel secundario-nivel primario.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "An observational prospective cohort study was conducted, with a one-year follow-up of a random sample of the references to general surgery services in a family medicine unit of the IMSS.",
+        "target": "Se realizó un estudio observacional prospectivo de cohortes, con un seguimiento de un año para una muestra aleatoria de las referencias a los servicios de cirugía general en una unidad de medicina familiar del IMSS.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5505645
+    },
+    {
+        "source": "Two indicators were analyzed: the outcome of the reference to general surgery, categorized as resolved, withdrawal and not resolved; and the time of solution of the surgical problem, which measures the median in calendar days from the issuance of the reference to the counter-reference for the reason of original sending.",
+        "target": "Se analizaron dos indicadores: el resultado de la referencia a cirugía general, categorizado como resuelto, retiro y no resuelto; y el tiempo de solución del problema quirúrgico, que mide la mediana en días naturales desde la emisión de la referencia hasta la contrarreferencia por motivo de envío original.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The indicators were compared by characteristics of the patient and the first level physician.",
+        "target": "Los indicadores se compararon según las características del paciente y del médico de primer nivel.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "primer nivel",
+                "startIndex": 85,
+                "endIndex": 96,
+                "error_category": "Wrong term",
+                "severity": "Critical"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The 84.8% of cases were resolved in a median time of 72 days (50-112), 14.1% of patients reject surgery and 1% wasnot resolved.",
+        "target": "El 84,8 % de los casos se resolvieron en una mediana de tiempo de 72 días (50-112), el 14,1 % de los pacientes rechazaron la cirugía y el 1 % no se resolvió.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "No statistically significant differences were found according the evaluated characteristics.",
+        "target": "No se encontraron diferencias estadísticamente significativas de acuerdo con las características evaluadas.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The overall solution time of the surgical problem in the medical unit is within the range built with previous studies, but in specific diagnoses there are significant variations.",
+        "target": "El tiempo total de solución del problema quirúrgico en la unidad médica está dentro del rango establecido con estudios previos, pero en los diagnósticos específicos existen variaciones significativas.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The frequency of solution of the surgical problem was high for diagnoses of greater risk.",
+        "target": "La frecuencia de solución del problema quirúrgico fue alta para diagnósticos de mayor riesgo.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Concern about getting sick could help prevent disease.",
+        "target": "Preocuparse por enfermarse podría ayudar a prevenir la enfermedad.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The aim of this study was to analyze the psychometric properties of a COVID-19 concern scale (EPCov-19).",
+        "target": "El objetivo de este estudio fue analizar las propiedades psicométricas de una escala de preocupación para COVID-19 (EPCov-19).",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "This is an instrument-based study and information was collected from 224 people of Peruvian nationality in the context of social isolation.",
+        "target": "Este es un estudio basado en instrumentos y se recopiló información de 224 personas de nacionalidad peruana en contexto de aislamiento social.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The items of the Cancer Concern Scale were adapted for this study.",
+        "target": "Los ítems de la Escala de Preocupación por el Cáncer se adaptaron para este estudio.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "A scale with satisfactory psychometric properties was obtained.",
+        "target": "Se obtuvo una escala con propiedades psicométricas satisfactorias.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "With a matrix of polychoric correlations, values higher than the standard were obtained in all 6 items",
+        "target": "Con una matriz de correlaciones policóricas, se obtuvieron valores superiores al estándar en los 6 ítems",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "( This is a valid and reliable instrument for measuring concern about the spread of COVID-19 and can be used in future studies.",
+        "target": "(Se trata de un instrumento válido y fiable para medir la preocupación por la propagación del COVID-19 y puede utilizarse en futuros estudios.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Faced with the prospect of a collapsed health system due to the COVID-19 pandemic, the professionals involved in the Neonatal Screening Programme (NSP) of Catalonia had to adapt to this situation in a flexible, forceful and efficient manner.",
+        "target": "Ante la perspectiva de un sistema de salud colapsado debido a la pandemia de COVID-19, los profesionales involucrados en el Programa de Detección Neonatal (NSP) de Cataluña tuvieron que adaptarse a esta situación de manera flexible, contundente y eficiente.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "Detección",
+                "startIndex": 136,
+                "endIndex": 144,
+                "error_category": "Inconsistent use of terminology",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The most important goals were to prevent the risk of infection in the professionals, in families and their newborns, as well as to ensure the same effectiveness for the early detection of the diseases included in our programme.",
+        "target": "Los objetivos más importantes eran prevenir el riesgo de infección en los profesionales, en las familias y en sus recién nacidos, así como garantizar la misma eficacia para la detección precoz de las enfermedades incluidas en nuestro programa.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "To this end, the laboratory was reorganised by dividing the staff into groups and the spaces were redistributed.",
+        "target": "Para ello, se reorganizó el laboratorio dividiendo al personal en grupos y se redistribuyeron los espacios.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "It was also necessary to modify several protocols and circuits, especially for the management of early discharges from maternity centres, and for the collection of the necessary second samples (from newborns with inconclusive results or for low quality samples).",
+        "target": "También fue necesario modificar varios protocolos y circuitos, especialmente para la gestión de las altas precoces de las maternidades, y para la recogida de las segundas muestras necesarias (de recién nacidos con resultados no concluyentes o para muestras de baja calidad).",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "In general, a 36% reduction in the time of arrival of these second samples at the laboratory was achieved with respect to the previous circuit.",
+        "target": "En general, se logró una reducción del 36 % en el tiempo de llegada de estas segundas muestras al laboratorio con respecto al circuito anterior.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "In the specific case of cystic fibrosis detection, the implementation of a new strategy meant a 100% reduction in the request for second samples and a 70% reduction in the age of diagnosis of the newborn.",
+        "target": "En el caso específico de la detección de fibrosis quística, la implementación de una nueva estrategia significó una reducción del 100 % en la solicitud de segundas muestras y una reducción del 70 % en la edad de diagnóstico del recién nacido.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "After evaluating these changes, it can be concluded that in the face of the pandemic, the NSP of Catalonia showed determined leadership, aligning all its professionals, ensuring the continuity of the activity in the programme and generating new opportunities.",
+        "target": "Tras evaluar estos cambios, se puede concluir que ante la pandemia, el PSN de Cataluña mostró un liderazgo decidido, alineando a todos sus profesionales, garantizando la continuidad de la actividad en el programa y generando nuevas oportunidades.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "PSN",
+                "startIndex": 71,
+                "endIndex": 73,
+                "error_category": "Inconsistent use of terminology",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The new processes and circuits implemented have been definitively consolidated, improving the efficiency of the programme.",
+        "target": "Los nuevos procesos y circuitos implantados se han consolidado definitivamente, mejorando la eficacia del programa.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The present systematic review examined post-migration variables impacting upon mental health outcomes among asylum-seeking and refugee populations in Europe.",
+        "target": "La presente revisión sistemática examinó las variables posteriores a la migración que afectan a los resultados de salud mental entre las poblaciones solicitantes de asilo y refugiadas en Europa.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "It focuses on the effects of post-settlement stressors (including length of asylum process and duration of stay, residency status and social integration) and their impact upon post-traumatic stress disorder, anxiety and depression.",
+        "target": "Se centra en los efectos de los factores estresantes posteriores al asentamiento (incluida la duración del proceso de asilo y la duración de la estancia, el estado de residencia y la integración social) y su impacto en el trastorno de estrés postraumático, la ansiedad y la depresión.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Twenty-two studies were reviewed in this study.",
+        "target": "En este estudio se revisaron veintidós estudios.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Length of asylum process and duration of stay was found to be the most frequently cited factor for mental health difficulties in 9 out of 22 studies.",
+        "target": "Se descubrió que la duración del proceso de asilo y la duración de la estancia eran los factores más citados para explicar las dificultades de salud mental en 9 de los 22 estudios.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Contrary to expectation, residency or legal status was posited as a marker for other explanatory variables, including loneliness, discrimination and communication or language problems, rather than being an explanatory variable itself.",
+        "target": "Contrariamente a lo esperado, la residencia o la condición jurídica se planteó como un indicador de otras variables explicativas, como la soledad, la discriminación y los problemas de comunicación o lingüísticos, en lugar de ser una variable explicativa en sí misma.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "lingüísticos",
+                "startIndex": 199,
+                "endIndex": 210,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "However, in line with previous findings and as hypothesised in this review, there were statistically significant correlations found between family life, family separation and mental health outcomes.",
+        "target": "Sin embargo, de acuerdo con hallazgos previos y como se plantea en esta revisión, se encontraron correlaciones estadísticamente significativas entre la vida familiar, la separación familiar y los resultados de salud mental.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Fifty percent of muscle-invasive bladder cancer (MIBC) patients succumb from metastatic disease despite radical cystectomy (RC).",
+        "target": "El cincuenta por ciento de los pacientes con cáncer de vejiga con invasión muscular (CVMI) sucumben por enfermedad metastásica a pesar de la cistectomía radical (CR).",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "CVMI",
+                "startIndex": 85,
+                "endIndex": 88,
+                "error_category": "Wrong term",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Neoadjuvant chemotherapy (NAC) and adjuvant chemotherapy (ACT) randomized clinical trials (RCT) investigated whether peri-operative chemotherapy improves survival.",
+        "target": "Los ensayos clínicos aleatorizados (ECA) de quimioterapia neoadyuvante (NAC) y quimioterapia adyuvante (ACT) investigaron si la quimioterapia perioperatoria mejora la supervivencia.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "NAC",
+                "startIndex": 72,
+                "endIndex": 74,
+                "error_category": "Wrong term",
+                "severity": "Critical"
+            },
+            {
+                "term": "ACT",
+                "startIndex": 104,
+                "endIndex": 106,
+                "error_category": "Wrong term",
+                "severity": "Critical"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "More recently, immune checkpoint inhibitors (ICI) are explored as peri-operative single agent, ICI-ICI or ICI-chemotherapy combinations.",
+        "target": "Más recientemente, los inhibidores de puntos de control inmunitarios (ICI, por sus siglas en inglés) se exploran como agentes únicos perioperatorios, combinaciones ICI-ICI o ICI-quimioterapia.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Our goal is to provide the status of neoadjuvant and adjuvant treatment in MIBC.",
+        "target": "Nuestro objetivo es proporcionar el estado del tratamiento neoadyuvante y adyuvante en CVMI.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The literature on NAC and ACT trials in MIBC was reviewed.",
+        "target": "Se revisó la literatura sobre ensayos de NAC y ACT en CVMI.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "ACT",
+                "startIndex": 47,
+                "endIndex": 49,
+                "error_category": "Wrong term",
+                "severity": "Major"
+            },
+            {
+                "term": "NAC",
+                "startIndex": 41,
+                "endIndex": 43,
+                "error_category": "Wrong term",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Since the 1980s, NAC RCTs were performed in cisplatin-fit patients, mainly using cisplatin combination chemotherapy.",
+        "target": "Desde la década de 1980, los ECA NAC se realizaron en pacientes aptos para cisplatino, principalmente mediante quimioterapia de combinación con cisplatino.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "NAC",
+                "startIndex": 33,
+                "endIndex": 35,
+                "error_category": "Wrong term",
+                "severity": "Critical"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Meta-analyses indicated a small, but significant 5% improvement in overall survival in T2-T4N0M0 MIBC patients.",
+        "target": "Los metanálisis indicaron una mejoría pequeña, pero significativa, del 5 % en la supervivencia general en pacientes con CVMI T2-T4N0M0.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Mostly MVAC or gemcitabine-cisplatin (GC) regimens were used without clear benefit of one regimen over the other.",
+        "target": "La mayoría de los regímenes de MVAC o gemcitabina-cisplatino (GC) se usaron sin un beneficio claro de un régimen sobre el otro.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "NAC value in N+MIBC is not established and predictive value of associated~25-40% complete downstaging (pathologically confirmed complete regression, pCR) not unequivocally demonstrated.",
+        "target": "El valor de NAC en el N+CVMI no está establecido y el valor predictivo de la reducción completa asociada (regresión completa confirmada patológicamente, PCR) no se ha demostrado de manera inequívoca.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [
+            {
+                "term": "associated~25-40%",
+                "startIndex": 63,
+                "endIndex": 79,
+                "error_category": "Omission",
+                "severity": "Critical"
+            }
+        ],
+        "target_errors": [
+            {
+                "term": "NAC",
+                "startIndex": 12,
+                "endIndex": 14,
+                "error_category": "Wrong term",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Adjuvant cisplatin-based chemotherapy RCTs were smaller, some prematurely stopped for poor accrual, and underpowered to demonstrate clear statistical evidence for a 5% overall survival advantage in pT3-T4N1-3M0 MIBC.",
+        "target": "Los ECA de quimioterapia adyuvante basada en cisplatino fueron más pequeños, algunos se interrumpieron prematuramente debido a una escasa participación, y no tuvieron la potencia suficiente para demostrar pruebas estadísticas claras de una ventaja de supervivencia global del 5 % en el CVMI pT3-T4N1-3M0.",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Novel neoadjuvant immune checkpoint inhibitors, alone or with chemotherapy, phase 2 trials demonstrate down staging and encouraging clinical results.",
+        "target": "Nuevos inhibidores neoadyuvantes del punto de control inmunitario, solos o con quimioterapia, los ensayos de fase 2 demuestran una estadificación descendente y resultados clínicos alentadores.",
+        "SEG_ID": "11",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Neoadjuvant MVAC or GC in cT2-T4N0 MIBC patients fit for cisplatin is still recommended based on OS benefit shown in meta-analyses, butreal-world adherence to NAC is low as ~40-50% ofpatients are unfit for cisplatin.",
+        "target": "La administración neoadyuvante de MVAC o GC en pacientes con CVMI cT2-T4N0 aptos para cisplatino se sigue recomendando por el beneficio en SG mostrado en los metaanálisis, pero la adherencia al NAC en el mundo real es baja, ya que ~40-50 % de los pacientes no son aptos para cisplatino.",
+        "SEG_ID": "12",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "The value of neoadjuvant treatment in node-positive MIBC is not clearly demonstrated requiring more accurate clinical staging and prospective studies.",
+        "target": "El valor del tratamiento neoadyuvante en la CVMI con ganglios positivos no está claramente demostrado, lo que requiere una estadificación clínica más precisa y estudios prospectivos.",
+        "SEG_ID": "13",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5506982
+    },
+    {
+        "source": "Adjuvant cisplatin-based chemotherapy may be considered in selected, chemo-naïve pT3-T4N+patients.",
+        "target": "Se puede considerar la quimioterapia adyuvante basada en cisplatino en pacientes pT3-T4N+ seleccionados y sin tratamiento previo con quimioterapia.",
+        "SEG_ID": "14",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "pacientes pT3-T4N+ seleccionados y sin tratamiento previo con quimioterapia.",
+                "startIndex": 71,
+                "endIndex": 146,
+                "error_category": "Inconsistent use of terminology",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Results from prospective checkpoint inhibitor immunotherapy RCTs are needed before immunotherapy becomes a recommended alternative for peri-operative treatment.",
+        "target": "Se necesitan resultados de ECA prospectivos de inmunoterapia con inhibidores de puntos de control antes de que la inmunoterapia se convierta en una alternativa recomendada para el tratamiento perioperatorio.",
+        "SEG_ID": "15",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Molecular tumour subtyping will support selecting novel agents for neoadjuvant or adjuvant strategies.",
+        "target": "La subtipificación de tumores moleculares apoyará la selección de nuevos agentes para estrategias neoadyuvantes o adyuvantes.",
+        "SEG_ID": "16",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "A child's disclosure of sexual victimization is a difficult experience for parents and has been associated with traumatization, disbelief, denial, self-blame, and clinical difficulties.",
+        "target": "La revelación de un niño de la victimización sexual es una experiencia difícil para los padres y se ha asociado con traumatización, incredulidad, negación, culpa propia y dificultades clínicas.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "To date, most studies on parents' responses have been quantitative assessments of the psychological impact of disclosure on parents.",
+        "target": "Hasta la fecha, la mayoría de los estudios sobre las respuestas de los padres han sido evaluaciones cuantitativas del impacto psicológico de la revelación en los padres.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "A paucity of research has qualitatively explored mothers' experiences of their child's disclosure of child sexual abuse (CSA) and fathers' experiences have been even further neglected.",
+        "target": "Son pocas las investigaciones que han explorado cualitativamente las experiencias de las madres en relación con la revelación por parte de sus hijos del abuso sexual infantil (CSA) y las experiencias de los padres se han descuidado aún más.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "CSA",
+                "startIndex": 176,
+                "endIndex": 178,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The current study seeks to characterize parents' experiences of their child's disclosure of CSA and to uncover the process-oriented nature of parental responses.",
+        "target": "El estudio actual busca caracterizar las experiencias de los padres sobre la revelación de CSA de sus hijos y descubrir la naturaleza orientada al proceso de las respuestas de los padres.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "CSA",
+                "startIndex": 91,
+                "endIndex": 93,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            },
+            {
+                "term": "naturaleza",
+                "startIndex": 123,
+                "endIndex": 132,
+                "error_category": "Wrong term",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "This qualitative study, using a grounded theory approach to analysis, involved interviews with 10 mothers and four fathers whose children (3-18 years) had experienced sexual abuse.",
+        "target": "Este estudio cualitativo, utilizando un enfoque teórico fundamentado para el análisis, incluyó entrevistas con 10 madres y cuatro padres cuyos hijos (3-18 años) habían experimentado abuso sexual.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Three themes emerged from the analysis.",
+        "target": "Del análisis surgieron tres temas.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The first theme-making sense of the abuse in retrospect-captured the process through which parents sought to make sense of their child's disclosure, focusing on why their child had not disclosed the abuse to them earlier, and how they had noticed something was wrong but misattributed their child's behavior to other factors.",
+        "target": "El primer tema, el sentido del abuso en retrospectiva, capturó el proceso a través del cual los padres buscaron dar sentido a la revelación de su hijo, centrándose en por qué su hijo no les había revelado el abuso antes y cómo habían notado que algo andaba mal, pero atribuyeron erróneamente el comportamiento de su hijo a otros factores.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "el sentido del abuso en retrospectiva",
+                "startIndex": 16,
+                "endIndex": 52,
+                "error_category": "Non-fluent",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The second theme-negotiating parental identity as protector-reflected how parents' identity as a protector was challenged, their perception of their world had been forever altered, and they now experienced themselves as hypervigilant and overprotective.",
+        "target": "El segundo tema, la negociación de la identidad de los padres como protectores, reflejaba cómo se cuestionaba la identidad de los padres como protectores, su percepción del mundo se había alterado para siempre y ahora se sentían hipervigilantes y sobreprotectores.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The final theme-navigating the services-pertained to parents' struggle in navigating child protection and police services, and feelings of being isolated and alone.",
+        "target": "El tema final, navegar por los servicios, se refería a la lucha de los padres para navegar por los servicios policiales y de protección infantil, y los sentimientos de estar aislados y solos.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "navegar por",
+                "startIndex": 15,
+                "endIndex": 25,
+                "error_category": "Non-fluent",
+                "severity": "Minor"
+            },
+            {
+                "term": "navegar",
+                "startIndex": 83,
+                "endIndex": 89,
+                "error_category": "Wrong term",
+                "severity": "Minor"
+            },
+            {
+                "term": "los sentimientos",
+                "startIndex": 148,
+                "endIndex": 163,
+                "error_category": "Mistranslation",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "These findings highlight the need for empathy and parental support following child disclosure of sexual victimization.",
+        "target": "Estos resultados ponen de relieve la necesidad de empatía y apoyo parental tras la revelación por parte del niño de la victimización sexual.",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "relieve",
+                "startIndex": 26,
+                "endIndex": 32,
+                "error_category": "Wrong term",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Japan Clinical Oncology Group (JCOG) 0212 (ClinicalTrials.gov NCT00190541) was a non-inferiority phase III trial of patients with clinical stage II-III rectal cancer without lateral pelvic lymph node enlargement.",
+        "target": "El Japan Clinical Oncology Group (JCOG) 0212 (ClinicalTrials.gov NCT00190541) fue un ensayo de fase III de no inferioridad en pacientes con cáncer de recto en estadio clínico II-III sin agrandamiento de los ganglios linfáticos pélvicos laterales.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "estadio",
+                "startIndex": 159,
+                "endIndex": 165,
+                "error_category": "Mistranslation",
+                "severity": "Critical"
+            },
+            {
+                "term": "recto",
+                "startIndex": 150,
+                "endIndex": 154,
+                "error_category": "Wrong term",
+                "severity": "Neutral"
+            },
+            {
+                "term": "El Japan Clinical Oncology Group",
+                "startIndex": 0,
+                "endIndex": 31,
+                "error_category": "Mistranslation",
+                "severity": "Critical"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The trial compared mesorectal excision (ME) with ME and lateral lymph node dissection (LLND), with a primary endpoint of recurrence-free survival (RFS).",
+        "target": "El ensayo comparó la escisión mesorrectal (EM) con la EM y la disección lateral de ganglios linfáticos (DGLL), con un criterio de valoración primario de supervivencia sin recidiva (SSR).",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The planned primary analysis at 5 years failed to confirm the non-inferiority of ME alone compared with ME and LLND.",
+        "target": "El análisis primario previsto a los 5 años no pudo confirmar la no inferioridad de ME sola en comparación con ME y LLND.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "ME",
+                "startIndex": 83,
+                "endIndex": 84,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            },
+            {
+                "term": "sola",
+                "startIndex": 86,
+                "endIndex": 89,
+                "error_category": "Non-fluent",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The present study aimed to compare ME alone and ME with LLND using long-term follow-up data from JCOG0212.",
+        "target": "El presente estudio tuvo como objetivo comparar ME solo y ME con LLND utilizando datos de seguimiento a largo plazo de JCOG0212.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "ME",
+                "startIndex": 48,
+                "endIndex": 49,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            },
+            {
+                "term": "ME",
+                "startIndex": 58,
+                "endIndex": 59,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            },
+            {
+                "term": "LLND",
+                "startIndex": 65,
+                "endIndex": 68,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Patients with clinical stage II-III rectal cancer below the peritoneal reflection and no lateral pelvic lymph node enlargement were included in this study.",
+        "target": "En este estudio se incluyeron pacientes con cáncer rectal en estadio clínico II-III por debajo de la reflexión peritoneal y sin agrandamiento de los ganglios linfáticos pélvicos laterales.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "estadio",
+                "startIndex": 61,
+                "endIndex": 67,
+                "error_category": "Wrong term",
+                "severity": "Major"
+            },
+            {
+                "term": "de la reflexión",
+                "startIndex": 95,
+                "endIndex": 109,
+                "error_category": "Wrong term",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "After surgeons confirmed R0 resection by ME, patients were randomized to receive ME alone or ME with LLND.",
+        "target": "Después de que los cirujanos confirmaron la resección R0 por EM, los pacientes fueron aleatorizados para recibir EM sola o EM con LLND.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "LLND",
+                "startIndex": 130,
+                "endIndex": 133,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The primary endpoint was RFS.",
+        "target": "El criterio de evaluación primario fue RFS.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "RFS",
+                "startIndex": 39,
+                "endIndex": 41,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "A total of 701 patients from 33 institutions were assigned to ME with LLND (351) or ME alone (350) between June 2003 and August 2010.",
+        "target": "Un total de 701 pacientes de 33 instituciones fueron asignados a EM con LLND (351) o EM solo (350) entre junio de 2003 y agosto de 2010.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The 7-year RFS rate was 71.1 per cent for ME with LLND and 70·7 per cent for ME alone (hazard ratio (HR) 1·09, 95 per cent c.i. 0·84 to 1·42; non-inferiority P = 0·064).",
+        "target": "La tasa de SSR a 7 años fue del 71,1 por ciento para EM con LLND y del 70,7 por ciento para EM sola (cociente de riesgos instantáneos (HR) 1,09, 95 por ciento c.i. 0,84 a 1,42; no inferioridad P = 0,064).",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "LLND",
+                "startIndex": 60,
+                "endIndex": 63,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            },
+            {
+                "term": "1,09",
+                "startIndex": 139,
+                "endIndex": 142,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            },
+            {
+                "term": "1,42",
+                "startIndex": 171,
+                "endIndex": 174,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            },
+            {
+                "term": "0,84",
+                "startIndex": 164,
+                "endIndex": 167,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Subgroup analysis showed improved RFS among patients with clinical stage III disease who underwent ME with LLND compared with ME alone (HR 1·49, 1·02 to 2·17).",
+        "target": "El análisis de subgrupos mostró una mejora de la SFR entre los pacientes con enfermedad en estadio clínico III que se sometieron a EM con DGLC en comparación con la EM sola (CRI 1,49, 1,02 a 2,17).",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "estadio",
+                "startIndex": 91,
+                "endIndex": 97,
+                "error_category": "Mistranslation",
+                "severity": "Major"
+            },
+            {
+                "term": "1,49",
+                "startIndex": 178,
+                "endIndex": 181,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            },
+            {
+                "term": "1,02",
+                "startIndex": 184,
+                "endIndex": 187,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            },
+            {
+                "term": "2,17",
+                "startIndex": 191,
+                "endIndex": 194,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Long-term follow-up data did not support the non-inferiority of ME alone compared with ME and LLND.",
+        "target": "Los datos de seguimiento a largo plazo no apoyaron la no inferioridad de la EM sola en comparación con la EM y la LLND.",
+        "SEG_ID": "11",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "LLND",
+                "startIndex": 114,
+                "endIndex": 117,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "ME with LLND is recommended for patients with clinical stage III disease, whereas LLND could be omitted in those with clinical stage II tumours.",
+        "target": "ME con LLND se recomienda para pacientes con enfermedad clínica en estadio III, mientras que LLND podría omitirse en aquellos con tumores clínicos en estadio II.",
+        "SEG_ID": "12",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "clínica",
+                "startIndex": 56,
+                "endIndex": 62,
+                "error_category": "Other",
+                "severity": "Major"
+            },
+            {
+                "term": "estadio",
+                "startIndex": 67,
+                "endIndex": 73,
+                "error_category": "Mistranslation",
+                "severity": "Major"
+            },
+            {
+                "term": "LLND",
+                "startIndex": 93,
+                "endIndex": 96,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            },
+            {
+                "term": "ME",
+                "startIndex": 0,
+                "endIndex": 1,
+                "error_category": "Untranslated",
+                "severity": "Neutral"
+            },
+            {
+                "term": "clínicos en estadio II",
+                "startIndex": 138,
+                "endIndex": 159,
+                "error_category": "Wrong term",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "To estimate the prevalence of immunity against Hepatitis B virus among all healthcare workers linked to the Departments of Public Health in Torrevieja and Elx-Crevillent,two municipalities in the Valencian Community, Spain.",
+        "target": "Estimar la prevalencia de inmunidad frente al virus de la hepatitis B entre todos los trabajadores sanitarios adscritos a los Departamentos de Salud Pública de Torrevieja y Elx-Crevillent, dos municipios de la Comunidad Valenciana, España.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Cross-sectional descriptive study of healthcare workers in two different public health departments.",
+        "target": "Estudio descriptivo transversal de trabajadores de la salud en dos departamentos de salud pública diferentes.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "diferentes",
+                "startIndex": 98,
+                "endIndex": 107,
+                "error_category": "Grammar",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Once the sample was obtained, the anti-hepatitis B surface antibody (anti-HBsAb) levels were abstracted based on serological test results recorded in the workers' medical records.",
+        "target": "Una vez que se obtuvo la muestra, los niveles de anticuerpo de superficie anti-hepatitis B (anti-HBsAb) se resumieron en función de los resultados de las pruebas serológicas registradas en los registros médicos de los trabajadores.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "registradas",
+                "startIndex": 174,
+                "endIndex": 184,
+                "error_category": "Mistranslation",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Titers of anti-HBsAB ≥10mlU / ml were considered as evience of immunity.",
+        "target": "Los títulos de anti-HBsAB ≥10mlU / ml se consideraron como prueba de inmunidad.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The variables analyzed were classified by department, gender, age (18-34; 35-49;≥50 years); professional category (physicians / nursing / other health personnel / nonhealth personnel); service at risk of contagion (Yes / No); immunity (≥10mlU/ml, 〈10mlU/ml,missing) and systematic anti-HBs vaccination by date of birth (Yes / No).",
+        "target": "Las variables analizadas se clasificaron por departamento, sexo, edad (18-34; 35-49; ≥50 años); categoría profesional (médicos/enfermería/otro personal sanitario/personal no sanitario); servicio en riesgo de contagio (Sí/No); inmunidad (≥10mlU/ml, 〈10mlU/ml, faltante) y vacunación sistemática anti-HBs por fecha de nacimiento (Sí/No).",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The study population consisted of 2674 workers.",
+        "target": "La población del estudio consistió en 2674 trabajadores.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The highest proportions of workers were female(68.8%), between 35 and 49 years of age (52.8%), and employed in nursing,(32.2%).",
+        "target": "Las mayores proporciones de trabajadores eran mujeres (68,8 %), entre 35 y 49 años de edad (52,8 %) y empleados en enfermería (32,2 %).",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Overall, 74.9% of employees had evidence of hepatitis B immunity, 11.3% had no inmunity, and 13.8% was missing information on serology.",
+        "target": "En general, el 74,9 % de los empleados tenía evidencia de inmunidad contra la hepatitis B, el 11,3 % no tenía inmunidad y el 13,8 % carecía de información sobre serología.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Among those employees with serological information (n=2306), lack of immunity was highest among males (17.8%).Protective titers were inversely proportional to age, with the lowest titers being found in the oldest age groups.",
+        "target": "Entre los empleados con información serológica (n = 2306), la falta de inmunidad fue mayor entre los hombres (17,8 %). Los títulos de protección fueron inversamente proporcionales a la edad, y los títulos más bajos se encontraron en los grupos de mayor edad.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Non-healthcare personnel and physicians also had lower levels of protection (36.9% and 11.1%, respectively).",
+        "target": "El personal no sanitario y los médicos también tuvieron niveles más bajos de protección (36,9 % y 11,1 %, respectivamente).",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "sanitario",
+                "startIndex": 15,
+                "endIndex": 23,
+                "error_category": "Wrong term",
+                "severity": "Minor"
+            },
+            {
+                "term": "más",
+                "startIndex": 64,
+                "endIndex": 66,
+                "error_category": "Other",
+                "severity": "Neutral"
+            },
+            {
+                "term": "tuvieron",
+                "startIndex": 47,
+                "endIndex": 54,
+                "error_category": "Non-fluent",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Despite identifying high levels of immunity among healthcare workers, the percentages of non-immunized employees and those lacking immunological information underscores the need to implement new communication strategies aimed at these at-risk groups.",
+        "target": "A pesar de identificar altos niveles de inmunidad entre los trabajadores de la salud, los porcentajes de empleados no inmunizados y aquellos que carecen de información inmunológica subrayan la necesidad de implementar nuevas estrategias de comunicación dirigidas a estos grupos de riesgo.",
+        "SEG_ID": "11",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "subrayan",
+                "startIndex": 181,
+                "endIndex": 188,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            },
+            {
+                "term": "de riesgo",
+                "startIndex": 278,
+                "endIndex": 286,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Introduction: assessing the relationship between childhood diseases and nutrient intake is a crucial issue that requires valid and reliable dietary assessment tools in this period of physical and physiological development.",
+        "target": "Introducción: la evaluación de la relación entre las enfermedades infantiles y la ingesta de nutrientes es un tema crucial que requiere herramientas válidas y confiables de evaluación dietética en este periodo de desarrollo físico y fisiológico.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Objective: the present study aimed to develop and validate a food frequency questionnaire (FFQ) to assess nutrient intake in Jordanian children.",
+        "target": "Objetivo: el presente estudio tuvo como objetivo desarrollar y validar un cuestionario de frecuencia de alimentos (FFQ) para evaluar la ingesta de nutrientes en niños jordanos.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Methods: in this validation study, nutrient intake as obtained from a culturally sensitive quantitative FFQ was compared to nutrient intake as assessed by four 24-hour dietary recalls (24-HRs) between September 2017 and May 2018.",
+        "target": "Métodos: en este estudio de validación, la ingesta de nutrientes obtenida a partir de un FFQ cuantitativo culturalmente sensible se comparó con la ingesta de nutrientes evaluada mediante cuatro recordatorios dietéticos de 24 horas (24-HR) entre septiembre de 2017 y mayo de 2018.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "HR",
+                "startIndex": 235,
+                "endIndex": 236,
+                "error_category": "Mistranslation",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "One hundred and thirty-six children aged 6-18 years were enrolled from selected schools in Amman, Jordan.",
+        "target": "Se matricularon 136 niños de 6 a 18 años en escuelas seleccionadas de Ammán (Jordania).",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Children or their caregivers were asked to complete the FFQ during an initial face-to-face interview.",
+        "target": "Se pidió a los niños o a sus cuidadores que completaran el FFQ durante una entrevista inicial cara a cara.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "cara a cara",
+                "startIndex": 94,
+                "endIndex": 104,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Four 24-HRs were collected weekly over one month.",
+        "target": "Se recogieron cuatro 24-HR semanalmente durante un mes.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "HR",
+                "startIndex": 24,
+                "endIndex": 25,
+                "error_category": "Mistranslation",
+                "severity": "Neutral"
+            },
+            {
+                "term": "semanalmente",
+                "startIndex": 27,
+                "endIndex": 38,
+                "error_category": "Grammar",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Of these children, 50 also took part in the reproducibility phase, which involved a repeat completion of the FFQ within 1 month.",
+        "target": "De estos niños, 50 también participaron en la fase de reproducibilidad, que implicó una repetición de la FFQ dentro de 1 mes.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "dentro",
+                "startIndex": 109,
+                "endIndex": 114,
+                "error_category": "Mistranslation",
+                "severity": "Major"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Results: the intraclass correlation coefficients between the two FFQs ranged from 0.5 for trans-fats to 0.96 for calcium.",
+        "target": "Resultados: los coeficientes de correlación intraclase entre los dos FFQ oscilaron entre 0,5 para las grasas trans y 0,96 para el calcio.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Correlation coefficients between dietary intake estimates derived from the FFQ and 24-HRs were significant at p < 0.05.",
+        "target": "Los coeficientes de correlación entre las estimaciones de la ingesta dietética derivadas del FFQ y las 24 horas fueron significativos con una p < 0,05.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The highest correlation was detected for energy (0.8) while the lowest was identified for trans-fatty acids (0.04).",
+        "target": "La correlación más alta se detectó para la energía (0,8), mientras que la más baja se identificó para los ácidos grasos trans (0,04).",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "For all nutrients, over 60 % of participants were classified into the same or adjacent quartile of crude and adjusted intake.",
+        "target": "Para todos los nutrientes, más del 60 % de los participantes se clasificaron en el mismo cuartil o en el cuartil adyacente de ingesta bruta y ajustada.",
+        "SEG_ID": "11",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Bland-Altman plots showed a satisfactory agreement between the two methods for energy and proteins.",
+        "target": "Los gráficos de Bland-Altman mostraron una concordancia satisfactoria entre los dos métodos para la energía y las proteínas.",
+        "SEG_ID": "12",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Conclusion: the FFQ showed a good reproducibility and a reasonable relative validity for most nutrients.",
+        "target": "Conclusión: el FFQ mostró una buena reproducibilidad y una validez relativa razonable para la mayoría de los nutrientes.",
+        "SEG_ID": "13",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The study aims to evaluate the association between teenage pregnancy and prematurity.",
+        "target": "El estudio tiene como objetivo evaluar la asociación entre el embarazo en la adolescencia y la prematuridad.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The data are from the Birth in Brazil study, a national survey consisting of 23,894 postpartum women and their newborn infants.",
+        "target": "Los datos provienen del estudio Nacimiento en Brasil, una encuesta nacional que consta de 23.894 mujeres posparto y sus recién nacidos.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "posparto",
+                "startIndex": 105,
+                "endIndex": 112,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The information was obtained from interviews with the mothers during their postpartum hospital stay.",
+        "target": "La información se obtuvo de entrevistas con las madres durante su estancia hospitalaria posparto.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "A matching method was established, based on propensity scores, to deal with differences between the groups due to the non-experimental design of the Birth in Brazil study.",
+        "target": "Se estableció un método de igualación, basado en puntuaciones de propensión, para tratar las diferencias entre los grupos debido al diseño no experimental del estudio Birth in Brazil.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "igualación",
+                "startIndex": 27,
+                "endIndex": 36,
+                "error_category": "Mistranslation",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The study outcome was gestational age, considering all the premature births (gestational age < 37 weeks) and term births (gestational age 37 weeks to 41 weeks and 6 days).",
+        "target": "El resultado del estudio fue la edad gestacional, considerando todos los partos prematuros (edad gestacional < 37 semanas) y nacidos a término (edad gestacional 37 semanas a 41 semanas y 6 días).",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The study revealed social, economic, and maternal care disparities between the women according to age bracket.",
+        "target": "El estudio reveló disparidades sociales, económicas y de atención materna entre las mujeres según el tramo de edad.",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "tramo",
+                "startIndex": 101,
+                "endIndex": 105,
+                "error_category": "Wrong term",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The highest proportions of teenage mothers were in the least developed regions of Brazil (North and Northeast) and in the poorest economic classes.",
+        "target": "Las mayores proporciones de madres adolescentes se dieron en las regiones menos desarrolladas de Brasil (Norte y Nordeste) y en las clases económicas más pobres.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "After matching for socioeconomic and obstetric care characteristics, the highest odds of spontaneous prematurity were seen in younger adolescents compared to older adolescents (OR = 1.49; 95%CI: 1.07-2.06), and young adults (OR = 2.38; 95%CI: 1.82-3.12).",
+        "target": "Después de emparejar las características socioeconómicas y de atención obstétrica, las probabilidades más altas de prematuridad espontánea se observaron en adolescentes más jóvenes en comparación con adolescentes mayores (OR = 1,49; IC del 95 %: 1,07-2,06) y adultos jóvenes (OR = 2,38; IC del 95 %: 1,82-3,12).",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "emparejar",
+                "startIndex": 11,
+                "endIndex": 19,
+                "error_category": "Wrong term",
+                "severity": "Minor"
+            },
+            {
+                "term": "con adolescentes mayores",
+                "startIndex": 196,
+                "endIndex": 219,
+                "error_category": "Non-fluent",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Prematurity is still an issue in the field of maternal and child health, and the association with teenage pregnancy identified in this study is worrisome, especially because younger adolescent mothers were associated with higher odds of spontaneous prematurity.",
+        "target": "La prematuridad sigue siendo un problema en el campo de la salud materna e infantil, y la asociación con el embarazo adolescente identificada en este estudio es preocupante, especialmente porque las madres adolescentes más jóvenes se asociaron con mayores probabilidades de prematuridad espontánea.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The study aimed to compare two concepts of rurality, one proposed by the Brazilian Institute of Geography and Statistics (IBGE) and the other by the World Bank, to determine which is better fitted to the territory's reality, besides analyzing the infant mortality profile of rural municipalities (counties) in the state of Paraíba, Brazil, according to the best criterion for rurality.",
+        "target": "El estudio tuvo como objetivo comparar dos conceptos de ruralidad, uno propuesto por el Instituto Brasileño de Geografía y Estadística (IBGE) y el otro por el Banco Mundial, para determinar cuál se ajusta mejor a la realidad del territorio, además de analizar el perfil de mortalidad infantil de los municipios rurales (condados) en el estado de Paraíba, Brasil, según el mejor criterio para la ruralidad.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "This was an observational epidemiological study conducted in the state of Paraíba.",
+        "target": "Se trata de un estudio epidemiológico observacional realizado en el estado de Paraíba.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The method for analyzing rural/urban typologies was based on data mining, using the Apriori algorithm of association.",
+        "target": "El método de análisis de las tipologías rural/urbano se basó en la minería de datos, utilizando el algoritmo de asociación Apriori.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Infant mortality was analyzed with descriptive statistics.",
+        "target": "Se analizó la mortalidad infantil con estadística descriptiva.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The data were obtained from the Mortality Information System of the Brazilian Ministry of Health, from 2007 to 2016, and municipal indicators were from IBGE.",
+        "target": "Los datos se obtuvieron del Sistema de Información de Mortalidad del Ministerio de Salud de Brasil, de 2007 a 2016, y los indicadores municipales fueron del IBGE.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The World Bank definition of rurality showed kappa = 0.337, compared to the IBGE definition, with kappa = 0.616. Among the 223 municipalities that were analyzed, the World Bank classified 130 (65.66%) correctly, and the IBGE 183 (82.06%).",
+        "target": "La definición de ruralidad del Banco Mundial mostró kappa = 0,337, en comparación con la definición del IBGE, con kappa = 0,616. Entre los 223 municipios analizados, el Banco Mundial clasificó correctamente a 130 (65,66 %) y el IBGE, a 183 (82,06 %).",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The predominant epidemiological profile of infant mortality in rural municipalities in Paraiba state was male gender (57.4%), brown skin color (61.1%), age from 0 to 7 days (52.4%), low birthweight (44%), and gestational age less than 37 weeks (43.2%).",
+        "target": "El perfil epidemiológico de mortalidad infantil predominante en los municipios rurales del estado de Paraíba fue el género masculino (57,4 %), color de piel morena (61,1 %), edad de 0 a 7 días (52,4 %), bajo peso al nacer (44 %) y edad gestacional menos de 37 semanas (43,2 %).",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Underlying cause of death was classified as avoidable death via interventions by the Brazilian Unified National Health System (65.2%).",
+        "target": "La causa subyacente de muerte fue clasificada como muerte evitable a través de intervenciones del Sistema Único de Salud (65,2 %).",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [
+            {
+                "term": "Brazilian",
+                "startIndex": 85,
+                "endIndex": 93,
+                "error_category": "Omission",
+                "severity": "Neutral"
+            }
+        ],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "The urban/rural typology adopted by the IBGE was better than the World Bank at classifying the municipalities in Paraiba state.",
+        "target": "La tipología urbana/rural adoptada por el IBGE fue mejor que la del Banco Mundial para clasificar los municipios del estado de Paraíba.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "This classification allowed studying the infant mortality profile in rural municipalities, which was similar to the overall profile, except for maternal schooling.",
+        "target": "Esta clasificación permitió estudiar el perfil de mortalidad infantil en los municipios rurales, que era similar al perfil general, excepto por la escolaridad materna.",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Introduction: Congenital hypothyroidism is a preventable cause of cognitive disability.",
+        "target": "Introducción: El hipotiroidismo congénito es una causa prevenible de discapacidad cognitiva.",
+        "SEG_ID": "1",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Due to the absence of symptoms and signs in the newborn, it is necessary to perform screening tests.",
+        "target": "Debido a la ausencia de síntomas y signos en el recién nacido, es necesario realizar pruebas de detección.",
+        "SEG_ID": "2",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "detección",
+                "startIndex": 96,
+                "endIndex": 104,
+                "error_category": "Mistranslation",
+                "severity": "Minor"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Its incidence ranges between 1:2,500 and 1:6,000.",
+        "target": "Su incidencia oscila entre 1:2.500 y 1:6.000.",
+        "SEG_ID": "3",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Objective: To describe the anthropometric and demographic characteristics, as well as the cord TSH levels, serum TSH, and serum T4L levels of the positive patients during screening and patients with confirmed congenital hypothyroidism.",
+        "target": "Objetivo: Describir las características antropométricas y demográficas, así como los niveles de TSH corduical, TSH sérica y T4L sérica de los pacientes positivos durante el cribado y pacientes con hipotiroidismo congénito confirmado.",
+        "SEG_ID": "4",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Materials and methods: We conducted a retrospective observational study for 17 years based on the review of clinical laboratory and medical records to describe the demographic and anthropometric characteristics of the patients at the time of diagnosis.",
+        "target": "Materiales y métodos: Realizamos un estudio observacional retrospectivo durante 17 años basado en la revisión de las historias clínicas y de laboratorio para describir las características demográficas y antropométricas de los pacientes en el momento del diagnóstico.",
+        "SEG_ID": "5",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Results: We analyzed 41,494 newborns in the 17 years of follow-up; 217 (0.52%) were positive in the screening test and the diagnosis was confirmed by serum tests (TSH and free T4) in 19 cases (8.76%) for an incidence of one for every 2,183 live births;",
+        "target": "Resultados: Se analizaron 41.494 recién nacidos en los 17 años de seguimiento; 217 (0,52 %) resultaron positivos en la prueba de tamizaje y el diagnóstico se confirmó mediante pruebas séricas (TSH y T4 libre) en 19 casos (8,76 %) para una incidencia de uno por cada 2.183 nacidos vivos;",
+        "SEG_ID": "6",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "78.95% of the children with congenital hypothyroidism were born full-term and the average gestational age was 37.3 weeks, similar to that of those with no congenital hypothyroidism.",
+        "target": "El 78,95 % de los niños con hipotiroidismo congénito nacieron a término y la edad gestacional promedio fue de 37,3 semanas, similar a la de los niños sin hipotiroidismo congénito.",
+        "SEG_ID": "7",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "There was no difference in the average weight and height at birth between the children with the condition and those who did not have it.",
+        "target": "No hubo diferencias en el peso y la estatura medios al nacer entre los niños con la enfermedad y los que no la padecían.",
+        "SEG_ID": "8",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [
+            {
+                "term": "medios",
+                "startIndex": 45,
+                "endIndex": 50,
+                "error_category": "Mistranslation",
+                "severity": "Neutral"
+            }
+        ],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "TSH in the cord in the cases of congenital hypothyroidism was significantly higher than in the discarded cases.",
+        "target": "La TSH en el cordón en los casos de hipotiroidismo congénito fue significativamente mayor que en los casos descartados.",
+        "SEG_ID": "9",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "Conclusions: The incidence of congenital hypothyroidism was similar to that found in the literature.",
+        "target": "Conclusiones: La incidencia del hipotiroidismo congénito fue similar a la encontrada en la literatura.",
+        "SEG_ID": "10",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    },
+    {
+        "source": "There were no relevant clinical differences between confirmed and ruled out cases reflecting the relevance of neonatal screening.",
+        "target": "No hubo diferencias clínicas relevantes entre los casos confirmados y los casos descartados, lo que refleja la relevancia del cribado neonatal.",
+        "SEG_ID": "11",
+        "filename": "medline_wmt_enus-eslatam_20230616.tsv",
+        "MT_Engine": "",
+        "source_locale": "enus-eslatam",
+        "target_locale": "enus-eslatam",
+        "source_errors": [],
+        "target_errors": [],
+        "Annotator_ID": 5658994
+    }
+]
