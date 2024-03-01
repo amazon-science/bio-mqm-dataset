@@ -1,10 +1,24 @@
 # Biomedical MQM Dataset
 
-Dataset and codebase for *Fine-Tuned Machine Translation Metrics Struggle in Unseen Domains*.
+Dataset and codebase for [*Fine-Tuned Machine Translation Metrics Struggle in Unseen Domains*](https://arxiv.org/abs/2402.18747)
 
 > We introduce a new, extensive multidimensional quality metrics (MQM) annotated dataset covering 11 language pairs in the biomedical domain. 
 > We use this dataset to investigate whether machine translation (MT) metrics which are fine-tuned on human-generated MT quality judgements are robust to domain shifts between training and inference. 
 > We find that fine-tuned metrics exhibit a substantial performance drop in the unseen domain scenario relative to metrics that rely on the surface form, as well as pre-trained metrics which are not fine-tuned on MT quality judgments. 
+
+If you use the data or code, please cite:
+```
+@article{zouhar2024finetuned,
+      title={Fine-Tuned Machine Translation Metrics Struggle in Unseen Domains},
+      author={Vilém Zouhar and Shuoyang Ding and Anna Currey and Tatyana Badeka and Jenyuan Wang and Brian Thompson},
+      year={2024},
+      eprint={2402.18747},
+      archivePrefix={arXiv},
+      journal={arXiv preprint arXiv:2306.07899},
+      url={https://arxiv.org/abs/2402.18747}
+}
+```
+
 
 ## New Dataset
 
